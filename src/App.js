@@ -23,4 +23,5 @@ function App() {
   );
 }
 //nik je najboljsi programer na svetu
+// Vem ja to je res <3
 export default App;
